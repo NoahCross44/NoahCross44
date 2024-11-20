@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- Centered Header GIF -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/4D3DhzVOu-oAAAAd/press-any-key-any-key.gif" alt="Header GIF" width="400">
+</p>
 
-<!--
-**NoahCross44/NoahCross44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Greeting -->
+<h1 align="center">Hi, I'm Noah! 👋</h1>
 
-Here are some ideas to get you started:
+<!-- Short Bio -->
+<p align="center">
+  I'm a university student living in the United States. Im new to the industry and enjoy contributing to open-source projects and collaborating with others 🥳.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- ❌ All public repositories are activily maintained.
+  
+- ❌ Contribution to projects is welcome.
+
+<!-- About Me Section -->
+## About Me
+
+- ❌ I enjoy python and HTML.
+
+- ❌ I enjoy cyber security and building security tools.
+
+## Contact me
+- Email: **[noah44github@gmail.com](mailto:youremail@example.com)**
+
+
